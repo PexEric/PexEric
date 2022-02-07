@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm PexEric.
+
+Gamer / Dreamer / Game Designer
+
+You can learn more about me at [my blog](https://pexeric.gitee.io/).
 
 <!--
 **PexEric/PexEric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
